@@ -22,7 +22,7 @@
     "url": "https://github.com/Laboratoria/admission-curriculum/issues"
   },
   "dependencies": {
-    "@laboratoria/curriculum-parser": "^2.5.0"
+    "@laboratoria/curriculum-parser": "^3.0.0"
   },
   "devDependencies": {
     "@laboratoria/mdlint": "^1.1.0",
